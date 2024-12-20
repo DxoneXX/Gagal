@@ -1,0 +1,18 @@
+[
+  {
+    "username": "pais",
+    "password": "pais",
+    "expired": "2024-12-29",
+    "maxDuration": 400,
+    "maxConcurrents": 5,
+    "vip": true,
+    "methods": [
+      "BROWSERS", "HTTP", "STORM", 
+      "BYPASS", "HTTPS", "STRIKE", 
+      "CIBI", "MEDUSA", "TLS", 
+      "DESTROY", "MIX", "TLSV2", 
+      "FLOOD", "MIXSYN", "XYN", 
+      "GLORY", "RAPID", "HTTP-RAW", "SILVER"
+    ]
+  }
+]
