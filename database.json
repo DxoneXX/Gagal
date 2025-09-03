@@ -2,7 +2,7 @@
   {
     "username": "pais",
     "password": "pais",
-    "expired": "2024-12-29",
+    "expired": "2029-12-29",
     "maxDuration": 400,
     "maxConcurrents": 5,
     "vip": true,
